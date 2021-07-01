@@ -762,6 +762,12 @@
     "compressible": true,
     "extensions": ["ini"]
   },
+  "text/x-python": {
+    "extensions": ["py", "pyx", "wsgi"]
+    "sources": [
+      "https://reposcope.com/mimetype/text/x-python"
+    ]
+  },
   "text/richtext": {
     "compressible": true
   },
